@@ -3,7 +3,7 @@
 using namespace std;
 
 long long power(int i){
-    long long x;
+    long long x,y;
     x=1;
     while(i--){
         x*=2;
