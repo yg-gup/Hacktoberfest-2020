@@ -25,7 +25,7 @@ int main()
             freopen("input.txt", "r", stdin);
            freopen("output.txt", "w", stdout);
       #endif
-           ll a,b ; 
+           ll a,b,c ; 
            cin>>a>>b ; 
            ll val =a ; 
            int ans = 0 ; 
